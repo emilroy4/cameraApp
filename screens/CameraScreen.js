@@ -9,6 +9,7 @@ export default function CameraScreen() {
   const [selectedLanguage, setSelectedLanguage] = useState('en'); // Default to English
 
   // Define languages with flag emojis
+  //test
   const languages = [
     { label: '🇺🇸 English', value: 'en' },
     { label: '🇪🇸 Spanish', value: 'es' },
